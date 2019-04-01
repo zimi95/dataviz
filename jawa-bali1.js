@@ -24,6 +24,8 @@ am4internal_webpackJsonp(["9eab"], {
             value: !0
         });
         window.am4geodata_indonesiaLow = {
+            type: "FeatureCollection",
+            features: [{
                 type: "Feature",
                 geometry: {
                     type: "MultiPolygon",
